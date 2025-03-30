@@ -23,35 +23,6 @@ This project was a fantastic learning journey, where I mastered:
 * **Loading States:** Providing smooth user experience during data fetching.
 * **Error Handling:** Gracefully managing and displaying errors.
 
-## 🛠️ Getting Started
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [repository URL]
-    cd cine-search
-    ```
-2.  **Install Dependencies (Frontend):**
-    ```bash
-    cd client
-    npm install
-    ```
-3.  **Install Dependencies (Backend):**
-    ```bash
-    cd ../server
-    npm install
-    ```
-4.  **Run the Backend:**
-    ```bash
-    npm start
-    ```
-    (Ensure your Node.js server is running on the specified port.)
-5.  **Run the Frontend:**
-    ```bash
-    cd ../client
-    npm start
-    ```
-    (Open your browser to `http://localhost:5173`.)
-
 ## 🍿 Features
 
 * **Search for Movies:** Input keywords to find your favorite films.
